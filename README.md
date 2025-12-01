@@ -1,1 +1,1 @@
-<img src="assets/BannerLucasMoncadaFINALISIMOa.png" alt="Banner" width="100%"/>
+<img src="assets/BannerLucasMoncadaFINALISIMO.png" alt="Banner" width="100%"/>
