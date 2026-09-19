@@ -3,7 +3,7 @@
 <h1 align="center">Hola, soy Lucas Moncada 👋</h1>
 
 <p align="center">
-  <strong>AI & Data Software Engineer</strong> · Ingeniería en Informática · Ciencia de Datos
+  <strong>Data Science & Analytics</strong> · Ingeniería en Informática · Ciencia de Datos
 </p>
 
 <p align="center">
@@ -13,12 +13,13 @@
 
 ## Sobre mí
 
-Desarrollo productos de **inteligencia artificial**, pipelines de datos y servicios backend. Tengo experiencia profesional construyendo soluciones con **Python, SQL, FastAPI, LangGraph y PostgreSQL**, integrando Machine Learning, sistemas multiagente, RAG y automatización de procesos.
+He desarrollado soluciones y componentes que integran **análisis de datos, Machine Learning e inteligencia artificial**. Tengo experiencia profesional trabajando con **Python, SQL, Pandas, scikit-learn, FastAPI, LangGraph y PostgreSQL**, además de pipelines de datos, sistemas multiagente, RAG y automatización de procesos.
 
 Estudio **Ingeniería en Informática con mención en Ciencia de Datos** en Duoc UC y participo como **sublíder del track Full Stack & IA del CITT**.
 
-- 🧠 **AI Engineering:** agentes, RAG, workflows con LLMs y evaluación de resultados.
-- 📊 **Data & Machine Learning:** análisis, ETL, clustering, Deep Learning y visualización.
+- 📊 **Data Science & Analytics:** análisis, preparación de datos, ETL y visualización.
+- 🤖 **Machine Learning:** clustering, Deep Learning y evaluación de modelos.
+- 🧠 **IA generativa:** agentes, RAG y workflows con LLMs.
 - ⚙️ **Software Engineering:** APIs, servicios backend, bases de datos y despliegues cloud.
 
 ## Experiencia reciente
@@ -32,7 +33,7 @@ Estudio **Ingeniería en Informática con mención en Ciencia de Datos** en Duoc
 
 Asistente preventivo para estimar riesgos cardiovasculares y generar planes personalizados mediante **Machine Learning, RAG y modelos de lenguaje**. Desarrollado en 27 horas en una competencia con más de 100 estudiantes de Duoc UC y la PUC.
 
-**Tecnologías:** Python · FastAPI · scikit-learn · RAG · PostgreSQL · React
+**Tecnologías:** Python · FastAPI · scikit-learn · RAG · Supabase/PostgreSQL · React
 
 ### 🧠 [Deep Learning aplicado a Fashion-MNIST](https://github.com/LucasMoncadaCL/ep1-deep-learning-fashion-mnist)
 
@@ -56,7 +57,8 @@ Plataforma para analizar imágenes y datos satelitales, detectar patrones de flo
 
 | Área | Tecnologías |
 |---|---|
-| **Datos y ML** | Python, SQL, Pandas, NumPy, SciPy, scikit-learn, TensorFlow, Keras |
+| **Análisis de datos** | Python, SQL, Pandas, NumPy, SciPy, Matplotlib, Seaborn |
+| **Machine Learning** | scikit-learn, TensorFlow, Keras, clustering, Deep Learning |
 | **IA generativa** | LangGraph, LangChain, RAG, OpenAI API |
 | **Backend y datos** | FastAPI, Java, Spring Boot, PostgreSQL, pgvector, MySQL, Redis |
 | **Cloud y desarrollo** | Docker, Google Cloud, AWS, Git, GitHub, React, TypeScript |
