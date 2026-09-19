@@ -1,4 +1,4 @@
-<img src="assets/BannerLucasMoncadaFINALISIMOaaa.png" alt="Banner de Lucas Moncada" width="100%"/>
+<img src="assets/BannerLucasMoncadaAIData.svg" alt="Banner de Lucas Moncada" width="100%"/>
 
 <h1 align="center">Hola, soy Lucas Moncada 👋</h1>
 
