@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1536" height="594" viewBox="0 0 1536 594" role="img" aria-labelledby="title description">
+  <title id="title">Lucas Moncada Espinoza — AI &amp; Data Software Engineer</title>
+  <desc id="description">Banner profesional de perfil con una red de datos sobre fondo azul oscuro.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0.85">
+      <stop offset="0" stop-color="#090f1d"/><stop offset="0.52" stop-color="#0d1728"/><stop offset="1" stop-color="#10233a"/>
+    </linearGradient>
+    <radialGradient id="networkLight" cx="72%" cy="45%" r="55%">
+      <stop offset="0" stop-color="#193d5b" stop-opacity="0.34"/><stop offset="0.62" stop-color="#102943" stop-opacity="0.14"/><stop offset="1" stop-color="#08111f" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="line" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#2385b4" stop-opacity="0.22"/><stop offset="0.55" stop-color="#58bde6" stop-opacity="0.52"/><stop offset="1" stop-color="#67c7e9" stop-opacity="0.25"/>
+    </linearGradient>
+    <filter id="grain" x="0" y="0" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.8" numOctaves="3" seed="18" stitchTiles="stitch"/><feColorMatrix type="saturate" values="0"/>
+      <feComponentTransfer><feFuncA type="table" tableValues="0 0.055"/></feComponentTransfer>
+    </filter>
+    <filter id="blur8" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="8"/></filter>
+    <filter id="blur3" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="3"/></filter>
+  </defs>
+  <rect width="1536" height="594" fill="url(#bg)"/>
+  <rect width="1536" height="594" fill="url(#networkLight)"/>
+  <rect width="1536" height="594" filter="url(#grain)" opacity="0.42"/>
+  <g fill="none" stroke="#1c5277" stroke-width="8" opacity="0.075">
+    <path d="M-80 504 C33 457 80 464 118 503 S186 577 254 523 330 487 394 512"/>
+    <path d="M942 -42 973 12 976 120 1085 119 1082 85 1120 59 1152 64 1194 18 1218 -37"/>
+  </g>
+  <g fill="none" stroke="#183a57" stroke-width="3" opacity="0.09">
+    <path d="M-20 125 C72 90 133 106 188 72"/><path d="M1280 12 C1348 61 1405 48 1545 2"/>
+  </g>
+  <g fill="none" stroke="url(#line)" stroke-width="1.05" stroke-linecap="round">
+    <path d="M613 504 699 534 752 444 845 473 870 351 950 436 979 347 1080 269 1179 307 1194 217 1296 262 1318 69 1389 132 1448 164 1495 85"/>
+    <path d="M699 534 795 516 845 473 945 544 1044 523 1141 497 1198 411 1271 356 1296 262 1397 368 1491 381 1535 299"/>
+    <path d="M752 444 844 438 870 351 979 347 1038 355 1080 269 1179 307 1271 356 1397 368 1443 296 1535 299"/>
+    <path d="M870 351 979 347 950 436 1038 355 1044 523 1097 456 1141 497 1198 411 1271 356 1194 217"/>
+    <path d="M950 436 1044 523 1097 456 1198 411 1179 307 1271 356 1296 262 1443 296 1448 164 1535 299"/>
+    <path d="M1080 269 1194 217 1179 307 1296 262 1318 69 1389 132 1448 164 1495 85 1565 138"/>
+    <path d="M1179 307 1198 411 1097 456 1038 355 950 436"/><path d="M1194 217 1271 356 1179 307 1080 269 1038 355"/>
+    <path d="M1296 262 1397 368 1443 296 1448 164 1389 132 1318 69"/><path d="M1318 69 1296 262 1194 217"/>
+    <path d="M1389 132 1535 299 1495 85"/><path d="M1397 368 1491 381 1535 299"/>
+    <path d="M699 534 752 444 613 504"/><path d="M752 444 795 516 845 473"/><path d="M845 473 844 438 950 436"/>
+    <path d="M844 438 870 351"/><path d="M845 473 945 544 950 436"/><path d="M945 544 1044 523"/>
+    <path d="M979 347 1080 269 1038 355"/><path d="M1038 355 1097 456"/><path d="M1044 523 1097 456"/>
+    <path d="M1141 497 1271 356"/><path d="M1198 411 1397 368"/><path d="M1271 356 1443 296"/>
+    <path d="M1443 296 1491 381"/><path d="M1448 164 1495 85"/>
+  </g>
+  <g fill="#55c7ef" opacity="0.13" filter="url(#blur8)">
+    <circle cx="699" cy="534" r="10"/><circle cx="945" cy="544" r="11"/><circle cx="1097" cy="456" r="10"/><circle cx="1198" cy="411" r="12"/><circle cx="1296" cy="262" r="11"/><circle cx="1448" cy="164" r="10"/>
+  </g>
+  <g fill="#8fd5ed" opacity="0.70">
+    <circle cx="613" cy="504" r="3"/><circle cx="699" cy="534" r="3.3"/><circle cx="752" cy="444" r="4.4"/><circle cx="795" cy="516" r="3.3"/>
+    <circle cx="844" cy="438" r="4.7"/><circle cx="845" cy="473" r="5.2"/><circle cx="870" cy="351" r="4.1"/><circle cx="945" cy="544" r="4.4"/>
+    <circle cx="950" cy="436" r="5.1"/><circle cx="979" cy="347" r="5"/><circle cx="1038" cy="355" r="3.4"/><circle cx="1044" cy="523" r="4.1"/>
+    <circle cx="1080" cy="269" r="5.2"/><circle cx="1097" cy="456" r="5.2"/><circle cx="1141" cy="497" r="3.5"/><circle cx="1179" cy="307" r="4.9"/>
+    <circle cx="1194" cy="217" r="5.2"/><circle cx="1198" cy="411" r="6"/><circle cx="1271" cy="356" r="4.2"/><circle cx="1296" cy="262" r="5.8"/>
+    <circle cx="1318" cy="69" r="5.2"/><circle cx="1389" cy="132" r="3.2"/><circle cx="1397" cy="368" r="3.7"/><circle cx="1443" cy="296" r="5.7"/>
+    <circle cx="1448" cy="164" r="4.7"/><circle cx="1491" cy="381" r="3.2"/><circle cx="1495" cy="85" r="5.5"/><circle cx="1535" cy="299" r="4.7"/>
+  </g>
+  <g fill="#e0f8ff" opacity="0.9">
+    <circle cx="979" cy="347" r="4.1"/><circle cx="1080" cy="269" r="4.2"/><circle cx="1179" cy="307" r="4"/><circle cx="1194" cy="217" r="4.2"/><circle cx="1296" cy="262" r="4.5"/><circle cx="1318" cy="69" r="4.2"/><circle cx="1448" cy="164" r="3.7"/><circle cx="1495" cy="85" r="4.4"/>
+  </g>
+  <g fill="#3d91b5" opacity="0.16" filter="url(#blur3)">
+    <circle cx="1093" cy="584" r="8"/><circle cx="1136" cy="551" r="6"/><circle cx="1173" cy="583" r="7"/><circle cx="1219" cy="555" r="7"/><circle cx="1260" cy="501" r="7"/><circle cx="1316" cy="474" r="7"/><circle cx="1373" cy="573" r="7"/><circle cx="1430" cy="528" r="7"/><circle cx="1497" cy="492" r="6"/>
+  </g>
+  <g font-family="'Segoe UI', Inter, Arial, sans-serif" text-rendering="geometricPrecision">
+    <text x="59" y="201" fill="#f5f7fa" font-size="70" font-weight="300" letter-spacing="-1.1">Lucas Moncada Espinoza</text>
+    <text x="59" y="251" fill="#f2f5f8" font-size="40" font-weight="300">AI &amp; Data Software Engineer</text>
+    <text x="59" y="323" fill="#f2f4f7" font-size="30" font-weight="300">Ingeniería en Informática · Mención Ciencia de Datos</text>
+    <text x="59" y="417" fill="#f1f3f6" font-size="27" font-weight="350" letter-spacing="1.7">Python · SQL · FastAPI · LangGraph</text>
+    <text x="59" y="454" fill="#f1f3f6" font-size="27" font-weight="350" letter-spacing="1.7">TensorFlow · PostgreSQL</text>
+  </g>
+</svg>
