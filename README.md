@@ -73,10 +73,19 @@ Plataforma para analizar imágenes y datos satelitales, detectar patrones de flo
 ## Actividad en GitHub
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LucasMoncadaCL&theme=react-dark&hide_border=true" width="95%" alt="Actividad de GitHub"/>
+  <a href="https://github.com/LucasMoncadaCL"><img src="https://streak-stats.demolab.com?user=LucasMoncadaCL&theme=github-dark-blue&hide_border=true&locale=es" width="500" alt="Racha de contribuciones de Lucas Moncada"/></a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMoncadaCL&layout=compact&theme=radical" height="150" alt="Lenguajes más utilizados"/>
-  <img src="https://streak-stats.demolab.com?user=LucasMoncadaCL&theme=radical&hide_border=true" height="150" alt="Racha de contribuciones"/>
+  <a href="https://github.com/LucasMoncadaCL?tab=followers"><img src="https://img.shields.io/github/followers/LucasMoncadaCL?style=for-the-badge&logo=github&label=Seguidores&color=0e75b6" alt="Seguidores en GitHub"/></a>
+  <a href="https://github.com/LucasMoncadaCL?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FLucasMoncadaCL&query=%24.public_repos&label=Repositorios&logo=github&style=for-the-badge&color=0e75b6" alt="Repositorios públicos"/></a>
+  <a href="https://github.com/LucasMoncadaCL?tab=repositories"><img src="https://img.shields.io/github/stars/LucasMoncadaCL?affiliations=OWNER&style=for-the-badge&logo=github&label=Estrellas&color=0e75b6" alt="Estrellas en repositorios propios"/></a>
+</p>
+
+### Actividad reciente en proyectos destacados
+
+<p align="center">
+  <a href="https://github.com/LucasMoncadaCL/ep1-deep-learning-fashion-mnist"><img src="https://img.shields.io/github/last-commit/LucasMoncadaCL/ep1-deep-learning-fashion-mnist?style=flat-square&label=Fashion-MNIST&color=0e75b6" alt="Último commit en Fashion-MNIST"/></a>
+  <a href="https://github.com/LucasMoncadaCL/spotify-popularity-analysis"><img src="https://img.shields.io/github/last-commit/LucasMoncadaCL/spotify-popularity-analysis?style=flat-square&label=Spotify%20Analysis&color=0e75b6" alt="Último commit en Spotify Popularity Analysis"/></a>
+  <a href="https://github.com/LucasMoncadaCL/hackaton_duoc_2025_Equipo4"><img src="https://img.shields.io/github/last-commit/LucasMoncadaCL/hackaton_duoc_2025_Equipo4?style=flat-square&label=CardioSense&color=0e75b6" alt="Último commit en CardioSense"/></a>
 </p>
