@@ -1,4 +1,4 @@
-<img src="assets/BannerLucasMoncadaDataScience.svg" alt="Banner de Lucas Moncada" width="100%"/>
+<img src="assets/BannerLucasMoncadaDataScience_ML.svg" alt="Banner de Lucas Moncada" width="100%"/>
 
 <h1 align="center">Hola, soy Lucas Moncada 👋</h1>
 
